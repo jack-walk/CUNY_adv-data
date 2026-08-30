@@ -5,7 +5,8 @@
 
 This repository contains exercise files for the second and third semester data journalism courses taught at the Craig Newmark Graduate School of Journalism. The files cover scrapers, Python 101, pandas and machine learning. 
 
-*   Please address questions with (lam.vo@journalism.cuny.edu)
+*   Please address questions with (lylla.younes@journalism.cuny.edu)
+*   Most materials borrowed from Lam Vo
 
 
 ## Course Description
@@ -34,4 +35,4 @@ All code in this repository is available under the [MIT License](https://opensou
 
 ## Feedback / Questions?
 
-Contact Lam Thuy Vo at lam.vo@journalism.cuny.edu.
+Contact Lylla Younes at lylla.younes@journalism.cuny.edu.
